@@ -1,0 +1,13 @@
+{
+    "name": "diginomix/php-markdown-converter",
+    "description": "Simple Converter for Markdown Files",
+    "require": {
+        "michelf/php-markdown": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Christian Betz",
+            "email": "christian.betz@gmail.com"
+        }
+    ]
+}
